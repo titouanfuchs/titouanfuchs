@@ -1,10 +1,18 @@
-## Hello 👋
+# Hello 👋
 
+<div align="center">
+  
+## 📈 Activity
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titouanfuchs&show_icons=true&theme=tokyonight)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=titouanfuchs&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
+<div align="center">
 
-### 🎒 Backpack
+## 🎒 Backpack
+  
 #### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -56,3 +64,5 @@
 #### OSs
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
