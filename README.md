@@ -10,6 +10,14 @@ Je suis actuellement étudiant à l'UHA 4.0 en seconde année et en alternance.
 Being passionate about computers and video games, I quickly understood that video game development would be my favorite field.
 I am currently a student at UHA 4.0 in my second year and in a work-study program.
 
+---
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titouanfuchs)
+  
+</div>
+
 <div align="center">
   
 ## 📈 Activity
