@@ -2,6 +2,13 @@
 
 ## About Me
 
+<div align="center">
+  
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+  
+</div>
+
 Etant passionné d'informatique et de jeux vidéos, j'ai tès vite compris que le développement de jeux vidéo serais mon domaine de prédilection.
 Je suis actuellement étudiant à l'UHA 4.0 en seconde année et en alternance.
 
