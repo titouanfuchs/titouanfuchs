@@ -1,5 +1,13 @@
 # Hello 👋
 
+## About Me
+
+Etant passionné d'informatique, je me suis très vite orienté vers le domaine du développement 
+
+---
+
+
+
 <div align="center">
   
 ## 📈 Activity
