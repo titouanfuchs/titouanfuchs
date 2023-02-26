@@ -21,7 +21,7 @@ I am currently a student at UHA 4.0 in my second year and in a work-study progra
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titouanfuchs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titouanfuchs&theme=tokyonight)
   
 </div>
 
