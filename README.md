@@ -11,11 +11,13 @@
 
 Etant passionné d'informatique et de jeux vidéos, j'ai tès vite compris que le développement de jeux vidéo serais mon domaine de prédilection.
 Je suis actuellement étudiant à l'UHA 4.0 en seconde année et en alternance.
+Membre fondateur de OuterGames.
 
 ---
 
 Being passionate about computers and video games, I quickly understood that video game development would be my favorite field.
 I am currently a student at UHA 4.0 in my second year and in a work-study program.
+Founder of OuterGames.
 
 ---
 
