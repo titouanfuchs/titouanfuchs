@@ -28,15 +28,6 @@ Founder of OuterGames.
 </div>
 
 <div align="center">
-  
-## 📈 Activity
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titouanfuchs&show_icons=true&theme=tokyonight)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=titouanfuchs&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
-<div align="center">
 
 ## 🎒 Backpack
   
