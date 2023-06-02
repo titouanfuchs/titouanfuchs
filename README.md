@@ -22,12 +22,6 @@ Founder of OuterGames.
 ---
 
 <div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titouanfuchs&theme=tokyonight)
-  
-</div>
-
-<div align="center">
 
 ## 🎒 Backpack
   
