@@ -9,17 +9,10 @@
   
 </div>
 
-Etant passionné d'informatique et de jeux vidéos, j'ai tès vite compris que le développement de jeux vidéo serais mon domaine de prédilection.
+Etant passionné d'informatique et de jeux vidéos, j'ai tès vite compris que le développement informatique serait mon domaine de prédilection.
+Au fil de mes expérimentations le domaine qui me plait le plus est le développement de jeux vidéos, mon but professionnel sur le long terme est donc de développer des jeux vidéos à plein temps.
 Je suis actuellement étudiant à l'UHA 4.0 en troisième année et en alternance.
 Membre fondateur de OuterGames.
-
----
-
-Being passionate about computers and video games, I quickly understood that video game development would be my favorite field.
-I am currently a student at UHA 4.0 in my third year and in a work-study program.
-Founder of OuterGames.
-
----
 
 <div align="center">
 
