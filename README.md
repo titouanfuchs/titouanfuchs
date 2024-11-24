@@ -11,7 +11,6 @@
 
 Etant passionné d'informatique et de jeux vidéos, j'ai tès vite compris que le développement informatique serait mon domaine de prédilection.
 Au fil de mes expérimentations le domaine qui me plait le plus est le développement de jeux vidéos, mon but professionnel sur le long terme est donc de développer des jeux vidéos à plein temps.
-Je suis actuellement étudiant à l'UHA 4.0 en troisième année et en alternance.
 Membre fondateur de OuterGames.
 
 <div align="center">
